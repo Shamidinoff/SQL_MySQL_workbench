@@ -1,0 +1,21 @@
+Code;Name;Continent;Region;SurfaceArea;IndepYear;Population;LifeExpectancy;GNP;GNPOld;LocalName;GovernmentForm;HeadOfState;Capital;Code2
+AGO;Angola;Africa;"Central Africa";1246700.00;1975;12878000;38.3;6648.00;7984.00;Angola;Republic;"José Eduardo dos Santos";56;AO
+CIV;"Côte d’Ivoire";Africa;"Western Africa";322463.00;1960;14786000;45.2;11345.00;10285.00;"Côte d’Ivoire";Republic;"Laurent Gbagbo";2814;CI
+CMR;Cameroon;Africa;"Central Africa";475442.00;1960;15085000;54.8;9174.00;8596.00;Cameroun/Cameroon;Republic;"Paul Biya";1804;CM
+COD;"Congo, The Democratic Republic of the";Africa;"Central Africa";2344858.00;1960;51654000;48.8;6964.00;2474.00;"République Démocratique du Congo";Republic;"Joseph Kabila";2298;CD
+DZA;Algeria;Africa;"Northern Africa";2381741.00;1962;31471000;69.7;49982.00;46966.00;Al-Jaza’ir/Algérie;Republic;"Abdelaziz Bouteflika";35;DZ
+EGY;Egypt;Africa;"Northern Africa";1001449.00;1922;68470000;63.3;82710.00;75617.00;Misr;Republic;"Hosni Mubarak";608;EG
+ETH;Ethiopia;Africa;"Eastern Africa";1104300.00;-1000;62565000;45.2;6353.00;6180.00;YeItyop´iya;Republic;"Negasso Gidada";756;ET
+GAB;Gabon;Africa;"Central Africa";267668.00;1960;1226000;50.1;5493.00;5279.00;"Le Gabon";Republic;"Omar Bongo";902;GA
+GHA;Ghana;Africa;"Western Africa";238533.00;1957;20212000;57.4;7137.00;6884.00;Ghana;Republic;"John Kufuor";910;GH
+KEN;Kenya;Africa;"Eastern Africa";580367.00;1963;30080000;48.0;9217.00;10241.00;Kenya;Republic;"Daniel arap Moi";1881;KE
+LBY;"Libyan Arab Jamahiriya";Africa;"Northern Africa";1759540.00;1951;5605000;75.5;44806.00;40562.00;Libiya;"Socialistic State";"Muammar al-Qadhafi";2441;LY
+MAR;Morocco;Africa;"Northern Africa";446550.00;1956;28351000;69.1;36124.00;33514.00;Al-Maghrib;"Constitutional Monarchy";"Mohammed VI";2486;MA
+NGA;Nigeria;Africa;"Western Africa";923768.00;1960;111506000;51.6;65707.00;58623.00;Nigeria;"Federal Republic";"Olusegun Obasanjo";2754;NG
+REU;Réunion;Africa;"Eastern Africa";2510.00;NULL;699000;72.7;8287.00;7988.00;Réunion;"Overseas Department of France";"Jacques Chirac";3017;RE
+SDN;Sudan;Africa;"Northern Africa";2505813.00;1956;29490000;56.6;10162.00;NULL;As-Sudan;"Islamic Republic";"Omar Hassan Ahmad al-Bashir";3225;SD
+TUN;Tunisia;Africa;"Northern Africa";163610.00;1956;9586000;73.7;20026.00;18898.00;Tunis/Tunisie;Republic;"Zine al-Abidine Ben Ali";3349;TN
+TZA;Tanzania;Africa;"Eastern Africa";883749.00;1961;33517000;52.3;8005.00;7388.00;Tanzania;Republic;"Benjamin William Mkapa";3306;TZ
+UGA;Uganda;Africa;"Eastern Africa";241038.00;1962;21778000;42.9;6313.00;6887.00;Uganda;Republic;"Yoweri Museveni";3425;UG
+ZAF;"South Africa";Africa;"Southern Africa";1221037.00;1910;40377000;51.1;116729.00;129092.00;"South Africa";Republic;"Thabo Mbeki";716;ZA
+ZWE;Zimbabwe;Africa;"Eastern Africa";390757.00;1980;11669000;37.8;5951.00;8670.00;Zimbabwe;Republic;"Robert G. Mugabe";4068;ZW
