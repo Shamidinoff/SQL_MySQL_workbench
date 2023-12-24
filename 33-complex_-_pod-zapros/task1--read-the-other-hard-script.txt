@@ -1,3 +1,16 @@
+SELECT ID, concat(LastName,' ', Name) AS ФИО, 
+(SELECT Name FROM unit where Id=Alfa.Unit_id) AS Регион,
+CASE 
+when YEAR(current_date)-YEAR(Birth)> 60 then '60+' 
+when YEAR(current_date)-YEAR(Birth) between 50 and 59 then '50-60' 
+when YEAR(current_date)-YEAR(Birth) between 40 and 49 then '40-50' 
+when YEAR(current_date)-YEAR(Birth) between 30 and 39 then '30-40' 
+when YEAR(current_date)-YEAR(Birth) between 20 and 29 then '20-30'
+else '19-'END AS Категория
+FROM ((SELECT * FROM units.empl_b1 WHERE Status!='Стажер') UNION (SELECT * FROM units.empl_b2 WHERE Status!='Стажер')) As Alfa
+LEFT JOIN (SELECT Empl_id, sum(SalesK) FROM units.sales WHERE YEAR(Date)=2022 GROUP BY Empl_id) AS Beta ON Alfa.ID=Beta.Empl_id
+
+
 Что делает этот SQL-скрипт?
 
 Что и с какими таблицами происходит, какие столбцы вычисляются\выгружаются...
