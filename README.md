@@ -11,3 +11,5 @@
 - Изучил программу MySQL Workbench для работы с БД
 
 ![Certificate SQL - Shamidinov Daurenbek](/38-certificate/Certificate%20SQL%20-%20Shamidinov%20Daurenbek.jpg)
+
+Ссылка на сертификат: https://www.udemy.com/certificate/UC-988fa888-b94c-4bf0-b775-633c15e99a89/
